@@ -1,6 +1,6 @@
 ## Hi, I'm Akanksha!👋
 
-👀 I’m interested in developing **CRM software**.  
+👀 I’m interested in developing **CRM softwares**.  
 🔭 I am currently building applications with the **Microsoft Power Platform – Power Apps, Power Automate, and Power BI**.  
 ✅ I have completed the **Microsoft Power Up Program** and **The Odin Project**.  
 ✅ I have passed the **MB-910: Microsoft Dynamics 365 Fundamentals (CRM)** and am preparing for the **PL-100 (Power Platform App Maker)**.  
