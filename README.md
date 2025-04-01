@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi, I'm Akanksha!👋
 
-<!--
-**akankshagailakoti/akankshagailakoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m interested in developing **CRM software**.  
+🔭 I am currently building applications with the **Microsoft Power Platform – Power Apps, Power Automate, and Power BI**.  
+✅ I have completed the **Microsoft Power Up Program** and **The Odin Project**.  
+✅ I have passed the **MB-910: Microsoft Dynamics 365 Fundamentals (CRM)** and am preparing for the **PL-100 (Power Platform App Maker)**.  
+🌱 I’m currently learning **SQL, Microsoft Dynamics 365, Power Platform, and CRM**.  
+💞️ I’m looking to collaborate on **Power Platform projects, automation workflows, and data-driven applications**.  
+📫 **How to reach me:** [via email](gailakotiakanksha123@gmail.com) | [via LinkedIn](https://www.linkedin.com/in/akanksha-gailakoti/)   
+🎓 **My tech course certificates:** [here]  
+⚡ **Fun fact:** I am a career changer from **content writing to low-code development**.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
