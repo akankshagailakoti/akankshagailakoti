@@ -1,6 +1,5 @@
 ### Hi, I'm Akanksha!👋
 
-👀 I’m interested in developing CRM softwares.
 
 🔭 I am currently building applications with the Microsoft Power Platform – Power Apps, Power Automate, and Power BI.  
 
