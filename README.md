@@ -12,7 +12,7 @@
 
 📫 **How to reach me:** [via LinkedIn](https://www.linkedin.com/in/akanksha-gailakoti/)   
 
-🎓 [**My tech course certificates**] (https://github.com/akankshagailakoti/certificates)  
+🎓 [**My tech course certificates**](https://github.com/akankshagailakoti/certificates)
 
 ⚡ **Fun fact:** I am a career changer from content writing to low-code development.  
 
