@@ -11,6 +11,8 @@
 
 📫 **How to reach me:** [via LinkedIn](https://www.linkedin.com/in/akanksha-gailakoti/)   
 
+🎥 **SNS:** [YouTube](https://www.youtube.com/@misstortoise_powerplatform), [Instagram](https://www.instagram.com/misstortoise_powerplatform/) 
+
 🎓 [**My tech course certificates**](https://github.com/akankshagailakoti/certificates)
 
 ⚡ **Fun fact:** I am a career changer from content writing to low-code development.  
